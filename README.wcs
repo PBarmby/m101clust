@@ -1,0 +1,4 @@
+WCSes of the field???.fits images are a little off, as per
+usual for ACS pipeline data. Correct WCSes (from which positions
+listed in analysis/final*.cat were derived) are in detect/f?v_fake.fits).
+Also see detect/oldwcs and detect/editwcs.
